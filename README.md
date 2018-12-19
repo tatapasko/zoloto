@@ -1,0 +1,2 @@
+# zoloto
+GitHub Pages
